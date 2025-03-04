@@ -1,0 +1,4 @@
+public/images/lastPageVideo.mp4 filter=lfs diff=lfs merge=lfs -text
+public/images/mainPagevideo.mp4 filter=lfs diff=lfs merge=lfs -text
+public/images/shopVideo3.gif filter=lfs diff=lfs merge=lfs -text
+public/images/shopVideo3.mp4 filter=lfs diff=lfs merge=lfs -text
