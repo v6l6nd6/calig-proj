@@ -31,7 +31,7 @@ const MainComponent: React.FC = () => {
           preload="auto" // Оптимизация загрузки видео
           aria-label="Background video of calligraphy art"
         >
-          <source src="/images/mainPageVideo.mp4" type="video/mp4" />
+          <source src="/images/mainPageVideo1.mp4" type="video/mp4" />
           Your browser does not support the video tag.
         </video>
         <div
