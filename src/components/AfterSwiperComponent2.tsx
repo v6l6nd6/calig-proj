@@ -10,7 +10,7 @@ export const AfterSwiperComponent2 = () => {
           loop
           muted
         >
-          <source src="/images/mainPageVideo.mp4" type="video/mp4" />
+          <source src="/images/mainPageVideo1.mp4" type="video/mp4" />
           Your browser does not support the video tag.
         </video>
 
